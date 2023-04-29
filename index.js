@@ -1,4 +1,4 @@
-const str = "hello"
+const str = 'hello'
 console.log(str)
 
 const str2 = "world"
